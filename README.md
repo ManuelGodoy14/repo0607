@@ -4,10 +4,10 @@ Camila Agostini
 Manuel Godoy
 Jonathan Umpierrez
 -----------------------------------
-Manu
-Marti
-Jonathan
-Camila
+Manu Godoy
+Marti Noguez
+Jonathan Umpierrez
+Camila Agostini
 
 
 
